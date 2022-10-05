@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(226, 226, 236);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}
+
+table, th, td{
+    border: 1px solid rgb(35, 35, 35);
+    border-collapse: collapse;
+    border-spacing: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
+caption{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+thead th{
+    text-transform: uppercase;
+}
+
+li{
+   list-style: none; 
+   /* justify-content: center; */
+   text-align: left;
+   border-bottom: 1px solid rgb(35, 35, 35);
+   
+}
+
+/* #student-id{
+   
+} */
+
+/* td{
+    text-align: center;
+} */
