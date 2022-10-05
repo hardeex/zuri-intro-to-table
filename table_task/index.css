@@ -29,10 +29,10 @@ li{
    
 }
 
-/* #student-id{
-   
-} */
+tr:nth-child(even){
+    background-color: rgb(225, 233, 230);
+}
 
-/* td{
-    text-align: center;
-} */
+td:nth-child(even){
+    background-color: rgb(225, 233, 230);
+}
